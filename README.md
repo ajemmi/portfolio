@@ -1,2 +1,2 @@
-# test-project
- A demo project to learn git
+# Portfolio
+ My personal portfolio project
